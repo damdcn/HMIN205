@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaPremiereAppli2021</string>
+    <string name="button_ex1">Exercice 1</string>
+    <string name="button_ex2">Exercice 2</string>
+    <string name="ex2_string">Ma première application Android</string>
+    <string name="button_ex3">Exercice 3</string>
+    <string name="button_ex4">Exercice 4</string>
+    <string name="button_ex5">Exercice 5</string>
+    <string name="button_tp1_xml">TP1 (XML)</string>
+    <string name="button_tp1_java">TP1 (Java)</string>
+    <string name="main_page_name">TD1 - 01/02/2021</string>
+</resources>
