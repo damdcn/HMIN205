@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HMIN205</string>
+    <string name="button1">Exercice 3 - XML</string>
+    <string name="button2">Exercice 3 - Java</string>
+    <string name="button3">Exercice 5</string>
+    <string name="button4">Exercice 6</string>
+    <string name="button5">Exercice 7</string>
+    <string name="main_page_name">TD1 - 08/02/2021</string>
+    <string name="form_name">Nom</string>
+    <string name="form_firstname">Prénom</string>
+    <string name="form_email">Email</string>
+    <string name="form_password">Numéro</string>
+    <string name="form_confirm">Valider</string>
+    <string name="form_cancel">Annuler</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_message">Voulez vous continuer ?</string>
+    <string name="dialog_positive">Oui</string>
+    <string name="dialog_negative">Non</string>
+    <string name="buttonOk">Ok</string>
+    <string name="buttonBack">Retour</string>
+    <string name="empty">Aucun</string>
+    <string name="buttonCall">Appeler</string>
+    <string name="button6">Exercice 8</string>
+    <string name="departure">Départ :</string>
+    <string name="arrival">Arrivée :</string>
+    <string name="buttonTrain">Rechercher</string>
+</resources>
