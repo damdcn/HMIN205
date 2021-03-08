@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tp3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TP3">
+        <activity
+            android:name=".TP3_Ex5"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity android:name=".TP3_Ex4_2_Planning" android:configChanges="orientation|screenSize|keyboardHidden"></activity>
+        <activity
+            android:name=".TP3_Ex4"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name=".TP3_Ex2_2"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name=".TP3_Ex2"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name=".TP3_Ex3_2"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name=".TP3_Ex3"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity
+            android:name=".TP3_Ex1"
+            android:configChanges="orientation|screenSize|keyboardHidden" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
